@@ -2,7 +2,6 @@
     Hi, I'm Matheus Aguiar!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
 <img src="https://gpvc.arturio.dev/matheus-aguiar-dev" alt="Profile views" align='right'/> <a href="https://github.com/matheus-aguiar-dev/matheus-aguiar-dev/"> </a> 
 <br/>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -52,7 +51,7 @@ I am a creative🎡, self taught software developer 🎯 and goal-oriented indiv
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheus-aguiar-dev&custom_title=Matheus's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Matheus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheus-aguiar-dev&custom_title=Matheus's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 

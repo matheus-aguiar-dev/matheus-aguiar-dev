@@ -12,12 +12,12 @@
 <p align="center">
 I am a creative🎡, self taught software developer 🎯 and goal-oriented individual👩‍💻.
 </p>
-## 🔥 Streak Stats
+<h3> 🔥 Streak Stats </h3>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-aguiar-dev&theme=monokai-metallian&hide_border=true"/>
 </a>
-<p align="center"> If you can dream it, you can do it🔥 </p>
+<p align="center"> No matter where you go, everyone’s connected.🔥 </p>
 </p>
     

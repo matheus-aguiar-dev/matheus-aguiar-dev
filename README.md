@@ -20,4 +20,22 @@ I am a creative🎡, self taught software developer 🎯 and goal-oriented indiv
 </a>
 <p align="center"> No matter where you go, everyone’s connected.🔥 </p>
 </p>
-    
+ 
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
+
+<p>
+ <img alt="Restructured Text" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+[ <img alt="Restructured Text" src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
+](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[     <img alt="Restructured Text" src=" 	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    [  <img alt="Restructured Text" src="[https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)">](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white    <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
+[    <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
+](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
+[    <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
+](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
+
+</p>

@@ -7,7 +7,7 @@
 </p>
 <hr/>
 <p align="center">
-I am a creative 🎡, self-taught software developer 🎯 with a strong passion for open source, backend development, and mobile applications 👨‍💻. Focused on creating efficient and scalable solutions for both Linux and Android platforms. 
+I am a creative 🎡, self-taught software developer 🎯 with a strong passion for open source, backend development, and mobile applications 👨‍💻. Focused on creating efficient and scalable solutions for Linux, Windows and Android platforms. 
 </p>
 <h3> 🔥 Streak Stats </h3>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->

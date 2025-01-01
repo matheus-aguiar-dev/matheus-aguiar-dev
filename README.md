@@ -9,12 +9,6 @@
 <p align="center">
 I am a creative 🎡, self-taught software developer 🎯 with a strong passion for open source, backend development, and mobile applications 👨‍💻. Focused on creating efficient and scalable solutions for Linux, Windows and Android platforms. 
 </p>
-<h3> 🔥 Streak Stats </h3>
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-aguiar-dev&theme=monokai-metallian&hide_border=true"/>
-</a>
 <p align="center"> No matter where you go, everyone’s connected.🔥 </p>
 </p>
  
